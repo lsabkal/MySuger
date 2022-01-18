@@ -5,3 +5,9 @@ USER-AGENT,mobox*
 DOMAIN-KEYWORD,mobox
 
 DOMAIN-SUFFIX,mobox.io
+
+USER-AGENT,radiocaca*
+
+DOMAIN-KEYWORD,radiocaca
+
+DOMAIN-SUFFIX,radiocaca.com
