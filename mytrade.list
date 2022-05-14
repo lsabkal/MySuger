@@ -1,0 +1,4 @@
+# > binance
+USER-AGENT,binance*
+DOMAIN-KEYWORD,binance
+DOMAIN-SUFFIX,binance.org
