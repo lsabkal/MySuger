@@ -2,6 +2,8 @@
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
+DOMAIN-KEYWORD,zhihu
+DOMAIN-SUFFIX,zhihu.com
 DOMAIN-KEYWORD,weibo
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-KEYWORD,sina
