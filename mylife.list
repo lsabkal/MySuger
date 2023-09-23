@@ -1,18 +1,5 @@
-# > binance
-USER-AGENT,binance*
-DOMAIN-KEYWORD,binance
-DOMAIN-SUFFIX,binance.org
-DOMAIN-KEYWORD,okex
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okex.win
-DOMAIN-SUFFIX,ninicoin.io
-DOMAIN-SUFFIX,mytokenpocket.vip
-DOMAIN-KEYWORD,mytokenpocket
-DOMAIN-KEYWORD,bitpie
-DOMAIN-SUFFIX,bitpie.com
-DOMAIN-KEYWORD,swft
-DOMAIN-SUFFIX,swft.pro
-DOMAIN-KEYWORD,huobi
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-KEYWORD,opensea
-DOMAIN-SUFFIX,opensea.io
+# > life
+USER-AGENT,yundai*
+DOMAIN-KEYWORD,hyundai
+DOMAIN-SUFFIX,hyundai.com
+
