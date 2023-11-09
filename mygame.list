@@ -24,4 +24,4 @@ DOMAIN-KEYWORD,thebeacon
 DOMAIN-SUFFIX,thebeacon.gg
 DOMAIN-KEYWORD,amazonaws
 DOMAIN-SUFFIX,amazonaws.com
-IP-CIDR,47.57.136.134
+IP-CIDR,47.57.136.134,no-resolve
