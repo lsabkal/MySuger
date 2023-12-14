@@ -30,5 +30,7 @@ DOMAIN-KEYWORD,bnbstatic
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-KEYWORD,digicert
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-KEYWORD,ingest.sentry
-DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-KEYWORD,sentry
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,saasexch
+DOMAIN-SUFFIX,saasexch.com
