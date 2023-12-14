@@ -2,9 +2,19 @@
 USER-AGENT,binance*
 DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-KEYWORD,bnbstatic
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-KEYWORD,bntrace
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-KEYWORD,binancecnt
+DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-KEYWORD,okex
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okex.win
+DOMAIN-KEYWORD,okx
+DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,ninicoin.io
 DOMAIN-SUFFIX,mytokenpocket.vip
 DOMAIN-KEYWORD,mytokenpocket
@@ -20,11 +30,6 @@ DOMAIN-KEYWORD,opensea
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-KEYWORD,jinglongyu
 DOMAIN-SUFFIX,jinglongyu.com
-DOMAIN-KEYWORD,bnbstatic
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-KEYWORD,bntrace
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-KEYWORD,binancecnt
-DOMAIN-SUFFIX,binancecnt.com
+
 
 
