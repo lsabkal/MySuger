@@ -26,7 +26,6 @@ DOMAIN-KEYWORD,amazonaws
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,aof.games
 IP-CIDR,47.57.136.134/32,no-resolve
-DOMAIN-KEYWORD,unity
 DOMAIN-SUFFIX,unity.cn
-DOMAIN-KEYWORD,unity3d
 DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,cloudfront.net
