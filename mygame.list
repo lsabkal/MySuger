@@ -1,7 +1,5 @@
 # > mobox
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
 USER-AGENT,mobox*
 USER-AGENT,radiocaca*
 DOMAIN-KEYWORD,mobox
