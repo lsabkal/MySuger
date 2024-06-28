@@ -22,11 +22,11 @@ DOMAIN-KEYWORD,thebeacon
 DOMAIN-SUFFIX,thebeacon.gg
 DOMAIN-KEYWORD,amazonaws
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,aof.games
-IP-CIDR,47.57.136.134/32,no-resolve
-DOMAIN-SUFFIX,unity.cn
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,aof.games
+# IP-CIDR,47.57.136.134/32,no-resolve
+# DOMAIN-SUFFIX,unity.cn
+# DOMAIN-SUFFIX,unity3d.com
+# DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,layerlumi.com
 DOMAIN-SUFFIX,sodiums.org
 DOMAIN-SUFFIX,lumiterra.net
