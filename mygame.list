@@ -37,6 +37,7 @@ IP-CIDR,8.212.38.208/32,no-resolve
 IP-CIDR,8.212.89.131/32,no-resolve
 IP-CIDR,8.212.39.5/32,no-resolve
 IP-CIDR,8.212.88.18/32,no-resolve
+IP-CIDR,99.83.136.253/32,no-resolve
 DOMAIN-SUFFIX,unity.cn
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,cloudfront.net
